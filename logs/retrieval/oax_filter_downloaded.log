@@ -1,0 +1,3 @@
+2025-11-26 12:06:12,133 - INFO - Scanning ../../data/filtered/pdfs for valid PDFs...
+2025-11-26 12:06:12,976 - INFO - Found 65367 valid PDFs on disk.
+2025-11-26 12:08:42,185 - INFO - SUMMARY | Input Records: 137621 | PDFs on Disk: 65367 | Matched & Saved: 65367
