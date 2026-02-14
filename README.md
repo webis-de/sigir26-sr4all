@@ -2,16 +2,21 @@
 
 ## Project for the Paper
 
-**A Large-Scale, Cross-Disciplinary Corpus of Systematic Reviews**  
-Pierre Achkar (Leipzig University; Fraunhofer ISI)  
-Tim Gollub (Bauhaus-Universität Weimar)  
-Arno Simons (TU Berlin)  
-Harrisen Scells (University of Tübingen)  
-Martin Potthast (Kassel University; hessian.AI; ScaDS.AI)
+**Title:** A Large-Scale, Cross-Disciplinary Corpus of Systematic Reviews  
+**Link:** _TBD_  
+
+**Authors:**  
+- Pierre Achkar (Leipzig University; Fraunhofer ISI)  
+- Tim Gollub (Bauhaus-Universität Weimar)  
+- Arno Simons (TU Berlin)  
+- Harrisen Scells (University of Tübingen)  
+- Martin Potthast (Kassel University; hessian.AI; ScaDS.AI)
 
 ---
 
 **License:** MIT
+
+---
 
 The final dataset is released on Zenodo under: https://doi.org/10.5281/zenodo.18431942
 
