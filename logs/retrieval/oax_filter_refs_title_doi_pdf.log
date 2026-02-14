@@ -1,3 +1,0 @@
-2025-11-25 14:10:39,578 - INFO - Starting strict filtering (excluding Updates)...
-2025-11-25 14:14:55,680 - INFO - SUMMARY | Total: 465103 | Kept: 137621 | Drops: EmptyRefList(87642), NotEnglish(3046), IsUpdate(2674), NotStrictTitle(83938), NoDOI(3501), NoPDF(146681)
-2025-11-25 14:16:59,190 - INFO - Saved filtered JSON -> ../../data/filtered/oax_sr_refs_title_doi_pdf_filtered.json
