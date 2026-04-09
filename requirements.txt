@@ -1,5 +1,5 @@
 beautifulsoup4==4.13.3
-docling_core==2.24.1
+docling_core==2.48.4
 lxml==5.3.1
 markitdown==0.1.1
 pandas==2.2.3
